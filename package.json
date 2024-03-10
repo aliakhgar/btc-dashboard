@@ -1,6 +1,6 @@
 {
   "name": "btc-dashboard",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Bitcoin dashboard",
   "private": false,
   "bin": "bin/cli.js",
